@@ -4,3 +4,4 @@ collections:
 plugins:
   - jekyll-feed
 theme: roz-aer
+baseurl: /victory2024
