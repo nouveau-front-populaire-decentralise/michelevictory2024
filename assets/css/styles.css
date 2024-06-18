@@ -347,6 +347,7 @@ section > div {
 #inscription {
   color: white;
   background-color: var(--rose);
+  margin-bottom: 0;
 }
 
 .villes {
