@@ -38,3 +38,27 @@ header h2{
   flex: 2 0 50vw;
   margin: auto;
 }
+
+.reseaux-sociaux{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-bottom: 2rem;
+  margin-bottom: 0;
+}
+
+.reseaux-sociaux li{
+  list-style: none;
+  margin: 1rem;
+}
+
+.reseaux-sociaux li img{
+  min-height: 5rem;
+  min-width: 5rem;
+}
+
+.email{
+  padding-block-end: 0;
+}
