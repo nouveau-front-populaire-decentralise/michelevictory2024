@@ -258,6 +258,10 @@ section > div {
   padding-block: 3rem;
 }
 
+.entete > div {
+  max-width: 100ch;
+}
+
 .entete img {
   max-height: 50vh;
   margin-inline: auto;
@@ -398,15 +402,29 @@ section > div {
   max-width: 60ch;
 }
 
-.agenda{
+#agenda{
   background-color: var(--vert);
   margin-bottom: 0;
 }
+#agenda > div{
+  max-width: 100vw;
+}
 
-.agenda ul, .agenda li{
+#agenda ul{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+#agenda ul, #agenda li{
   list-style: none;
 }
 
+#agenda li{
+  max-width: 30em;
+  margin: 1rem;
+}
 
 @media (max-width: 1024px) {
   header {
