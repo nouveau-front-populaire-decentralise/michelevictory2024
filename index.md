@@ -100,11 +100,11 @@ in_menu: true
     <article>
       <div>
         <!-- Si besoin car non présent·e sur la 1e photo, ci-dessous la photo de votre suppléant·e -->
-        <img alt="Michèle VICTORY suppléante pour le Front Populaire le 30 juin" src="./images/romain_evrard_1.jpg">
+        <img alt="Romain Évrard, suppléant pour le Front Populaire le 30 juin" src="./images/romain_evrard_1.jpg">
       </div>
 
       <div>
-        <h2>Michèle VICTORY - suppléante</h2>
+        <h2>Romain Évrard - suppléant</h2>
 
         <!-- Ci-dessous 3 points à retenir sur votre suppléant·e (faire court !) -->
         <ul>
