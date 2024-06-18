@@ -80,3 +80,12 @@ header h2{
 #candidature > div article{
   max-width: 60ch;
 }
+
+.agenda{
+  background-color: var(--vert);
+  margin-bottom: 0;
+}
+
+.agenda ul, .agenda li{
+  list-style: none;
+}
