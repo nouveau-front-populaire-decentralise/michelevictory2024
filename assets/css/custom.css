@@ -18,3 +18,23 @@ header h2{
 .entete .buttons{
     margin-top: 1rem;
 }
+
+.footer{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.footer div{
+  padding-block: 0;
+  display: inline-block;
+  text-align: center;
+  margin-inline: 1rem;
+}
+
+.footer .pusher{
+  flex: 2 0 50vw;
+  margin: auto;
+}
