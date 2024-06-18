@@ -13,3 +13,8 @@ Pour voir vos modifications localement :
 * Sinon, vous avez probablement la commande python : `python3 -m http.server` ou `python -m http.server`
 
 Puis ouvrez l'adresse du serveur dans votre navigateur web (soit, par défaut, http://localhost:8080 pour `live-server` ou http://localhost:8000 pour `python`)
+
+## Mise en ligne
+
+* Activez la Github Page en mode "Déployer à partir d’une branche." (voir [documentation](https://docs.github.com/fr/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site))
+* [Configurez un domaine personnalisé](https://docs.github.com/fr/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages)
