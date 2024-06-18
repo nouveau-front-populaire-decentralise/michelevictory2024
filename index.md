@@ -9,13 +9,13 @@ in_menu: true
   </div>
 
   <div>
-    <h1>Le 30 juin et le 7 juillet, <br />votez NOM Prénom !</h1>
+    <h1>Le 30 juin et le 7 juillet, <br />votez Michèle VICTORY !</h1>
   </div>
 </header>
 
 <section class="entete">
   <div>
-    <img alt="Nom Prénom candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
+    <img alt="Michèle VICTORY candidat pour le Front Populaire le 30 juin" src="./images/romain_et_michele.jpg">
 
     <div class="buttons">
       <div>
@@ -73,11 +73,11 @@ in_menu: true
     <article>
       <div>
         <!-- Ci-dessous la photo de votre candidat·e -->
-        <img alt="Nom Prénom candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
+        <img alt="Michèle VICTORY candidat pour le Front Populaire le 30 juin" src="./images/michele_victory_1.jpg">
       </div>
 
       <div>
-        <h2>Nom Prénom</h2>
+        <h2>Michèle VICTORY</h2>
 
         <!-- Ci-dessous 3 points à retenir sur votre candidat·e (faire court !) -->
         <ul>
@@ -91,20 +91,20 @@ in_menu: true
             Point à retenir sur notre candidat·e numéro 3
           </li>
         </ul>
-      
+
         <!-- Ci-dessous un petit texte reprenant 2 ou 3 mesures nationales en les déclinant sur les impacts locaux. -->
         <p>Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux.</p>
       </div>
     </article>
-  
+
     <article>
       <div>
         <!-- Si besoin car non présent·e sur la 1e photo, ci-dessous la photo de votre suppléant·e -->
-        <img alt="Nom Prénom suppléante pour le Front Populaire le 30 juin" src="./images/candidate-2.png">
+        <img alt="Michèle VICTORY suppléante pour le Front Populaire le 30 juin" src="./images/romain_evrard_1.jpg">
       </div>
 
       <div>
-        <h2>Nom Prénom - suppléante</h2>
+        <h2>Michèle VICTORY - suppléante</h2>
 
         <!-- Ci-dessous 3 points à retenir sur votre suppléant·e (faire court !) -->
         <ul>
@@ -129,7 +129,7 @@ in_menu: true
 <section class="contact">
   <div>
     <h2>Nous contacter</h2>
-    <p>Écrivez-nous à <a href="mailto:nomdumail@blabla.com">nomdumail@blabla.com</a></p>
+    <p>Écrivez-nous à <a href="mailto:michelevictory2024@gmail.com">michelevictory2024@gmail.com</a></p>
   </div>
 </section>
 
@@ -159,9 +159,9 @@ in_menu: true
 <section id="procuration">
   <div>
     <p>Vous ne pouvez pas vous déplacer le 30&nbsp;juin ou le 7&nbsp;juillet prochain ?</p>
-  
+
     <h2>Votez par procuration</h2>
-  
+
     <p>Il vous suffit de connaitre votre numéro de bureau de vote.</p>
 
     <div class="buttons">
@@ -191,9 +191,9 @@ in_menu: true
 <section class="villes">
   <div>
     <img src="./images/logo-NFP-rouge.png" alt="Nouveau Front Populaire">
-    
+
     <h2>Le 30&nbsp;juin et le 7&nbsp;juillet, votez et faites votez autour de vous !</h2>
-    
+
     <!-- Ci-dessous listez les villes de votre circonscription pour aider les moteurs de recherche à trouver votre site -->
     <p>Que vous soyez électeur ou électrice à Nom de ville 1, Nom de ville 2, Nom de ville 3… chaque vote compte pour empêcher l'extrême-droite d'arriver au pouvoir !</p>
   </div>
